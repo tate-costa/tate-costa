@@ -57,16 +57,11 @@ That question looks different in every domain — in options pricing it's volati
 
 I write about statistics, quantitative finance, and data science on [Substack](https://YOUR_SUBSTACK_URL).
 
-Recent posts:
-- *Black-Scholes explained from first principles* ← *(publish this after Month 1)*
-- *Why implied volatility matters more than the Black-Scholes formula* ← *(Month 2)*
-- *What sports analytics taught me about overfitting* ← *(Month 4)*
-
 ---
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tate_Costa-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tate_Costa-0A66C2?style=flat&logo=linkedin)](www.linkedin.com/in/tate-costa-295031250)
 [![Email](https://img.shields.io/badge/Email-tatecosta%40email.com-333?style=flat&logo=gmail)](mailto:tatecosta2022@gmail.com)
 
 ---
