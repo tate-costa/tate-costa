@@ -12,7 +12,7 @@ I build statistically rigorous models that connect theory to real decisions — 
 |---|---|---|
 | [Black-Scholes Pricer](https://github.com/tate-costa/black-scholes-pricer) | Options pricing engine with implied volalatility solver, Greeks, and trade signal generation | Python · SciPy · yfinance |
 | GARCH Volatility Forecaster *(coming Month 2)* | Forecasting realised volatility and comparing against market implied vol | Python · arch · pandas |
-| Credit Risk Model *(coming Month 3)* | Loan default classification with SHAP explainability | XGBoost · SHAP · sklearn |
+| [Mortage Default Model](https://github.com/tate-costa/mortgage-default-model) | Loan default classification with SHAP explainability | XGBoost · SHAP · sklearn |
 | Sports Analytics Dashboard *(coming Month 4)* | Player performance modelling with interactive visualisation | Python · Streamlit · Plotly |
 
 ---
