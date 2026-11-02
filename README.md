@@ -6,16 +6,6 @@ I build statistically rigorous models that connect theory to real decisions — 
 
 ---
 
-## What I'm building
-
-| Project | Description | Stack |
-|---|---|---|
-| [Black-Scholes Pricer](https://github.com/tate-costa/black-scholes-pricer) | Options pricing engine with implied volalatility solver, Greeks, and trade signal generation | Python · SciPy · yfinance |
-| GARCH Volatility Forecaster *(coming Month 2)* | Forecasting realised volatility and comparing against market implied vol | Python · arch · pandas |
-| [Mortage Default Model](https://github.com/tate-costa/mortgage-default-model) | Loan default classification with SHAP explainability | XGBoost · SHAP · sklearn |
-| Sports Analytics Dashboard *(coming Month 4)* | Player performance modelling with interactive visualisation | Python · Streamlit · Plotly |
-
----
 
 ## Skills
 
@@ -51,11 +41,7 @@ That question looks different in every domain — in options pricing it's volati
 - **Stochastic calculus** — working through Shreve's *Stochastic Calculus for Finance*
 - **Model explainability** — SHAP values for high-stakes financial models
 
----
 
-## Writing
-
-I write about statistics, quantitative finance, and data science on [Substack](https://YOUR_SUBSTACK_URL).
 
 ---
 
